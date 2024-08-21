@@ -15,7 +15,6 @@ Identify and describe at least three key milestones in the evolution of software
 2. We do have the establishment of software engineering as a discipline. 
 3. Another milestone is the advent of structured programming and the rise of agile methodologies.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements phase - This phase deals with gathering and documenting user needs and system requirements.
 2. Design phase - At this level we are concerned with creating high-level and detailed designs of the software architecture and user interface.
